@@ -11,4 +11,4 @@ I am a Business Data Analyst transitioning into analytics with strong hands-on e
 - 🎯 Career goal: Data Analyst / Business Analyst in a product-driven company  
 
 📫 Reach me on LinkedIn: www.linkedin.com/in/vijaym-23insights  
-📁 My projects: 
+📁 My projects: https://github.com/vijaym23insights/Data-Analytics-Projects
